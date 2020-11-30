@@ -7,7 +7,7 @@ public class Ellipse {
     private double b;
     private final Point startPoint;
 
-    public Ellipse(){
+    public Ellipse() {
         this.startPoint = new Point(0, 0);
         a = 1;
         b = 1;
